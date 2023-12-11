@@ -34,7 +34,8 @@ $ python3 videoproducebot.py
 ![image](https://github.com/jerryold/GPT4_ShortVideoProduce/assets/12774427/3011d7a2-5326-43ff-a4ca-015f3bc45f9c)
 
 * Video Screen
-![Video](https://github.com/jerryold/GPT4_ShortVideoProduce/assets/12774427/5c8fe753-6af9-4cf4-89f8-93150284a955)
+![image](https://github.com/jerryold/GPT4_ShortVideoProduce/assets/12774427/d30ef585-b551-42a7-88bc-c7090d9dc7ac)
+
 
 
 ## Demo Video
