@@ -41,8 +41,9 @@ $ python3 videoproducebot.py
 
 ## Demo Video
 * Demo Video
-* The Video Output
-  
+[Demo Video.webm](https://github.com/jerryold/GPT4_ShortVideoProduce/assets/12774427/cf52bf46-a087-4233-8125-32c2fceac13e)
+
+* The Video Output 
 https://github.com/jerryold/GPT4_ShortVideoProduce/assets/12774427/bb5b4418-a5b8-4f26-8a0a-95d17f835c95
 
 
