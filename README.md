@@ -39,10 +39,9 @@ $ python3 videoproducebot.py
 <img src="https://github.com/jerryold/GPT4_ShortVideoProduce/assets/12774427/cf53024b-529c-4a2b-8955-aa405ca05895" width="460" height="800">
 
 
-
-
-
-
-
-
 ## Demo Video
+* Demo Video
+* The Video Output
+https://github.com/jerryold/GPT4_ShortVideoProduce/assets/12774427/bb5b4418-a5b8-4f26-8a0a-95d17f835c95
+
+
