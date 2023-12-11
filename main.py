@@ -73,7 +73,7 @@ You should add a description of a fitting backround image in between all of the 
 )
 
 response_text = response.choices[0].message.content
-response_text.replace("‚Ä?", "'").replace("`", "'").replace("‚Ä¶", "...").replace("‚Ä?", '"').replace("‚Ä?", '"')
+response_text.replace("‚Äô", "'").replace("`", "'").replace("‚Ä¶", "...").replace("‚Äú", '"').replace("‚Äù", '"')
 
 with open(os.path.join(basedir, "response.txt"), "w") as f:
     f.write(response_text)
