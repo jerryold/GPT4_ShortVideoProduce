@@ -11,7 +11,7 @@ import images
 import video
 import shutil
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="your openai api key here")
 
 if len(sys.argv) < 2:
     print(f"USAGE: {sys.argv[0]} SOURCE_FILENAME")
@@ -73,7 +73,7 @@ You should add a description of a fitting backround image in between all of the 
 )
 
 response_text = response.choices[0].message.content
-response_text.replace("â€™", "'").replace("`", "'").replace("â€¦", "...").replace("â€œ", '"').replace("â€", '"')
+response_text.replace("â€?", "'").replace("`", "'").replace("â€¦", "...").replace("â€?", '"').replace("â€?", '"')
 
 with open(os.path.join(basedir, "response.txt"), "w") as f:
     f.write(response_text)
