@@ -28,7 +28,7 @@ $ python3 videoproducebot.py
 ```
 
 ## Demo Screenshot
-* Initiaal Screen
+* Initial Screen
 ![image](https://github.com/jerryold/GPT4_ShortVideoProduce/assets/12774427/bcb58dda-14a7-470e-a1cc-69f7165cd9fb)
 
 * Bot Screen
